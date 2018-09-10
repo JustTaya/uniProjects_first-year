@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\work\avl_tree\avl_tree\avltree.h(307): warning C4715: AVLTree<int,int>::recDel: значение возвращается не при всех путях выполнения
+  AVL_tree.vcxproj -> E:\work\AVL_tree\Debug\AVL_tree.exe
