@@ -1,1 +1,2 @@
-# uniProjects_first-year
+# uniProjects_secondYear
+University projects for first year.
