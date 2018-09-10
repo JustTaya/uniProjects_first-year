@@ -1,0 +1,11 @@
+# Simple rules set from Wikipedia.
+A -> apple
+B -> bag
+S -> shop
+T -> the
+the shop -> my brother
+a never used -> .terminating rule
+#Input:
+#I bought a B of As from T S.
+#Output:
+#I bought a bag of apples from my brother.
